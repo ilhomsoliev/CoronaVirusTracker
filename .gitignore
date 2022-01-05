@@ -5,3 +5,4 @@
       <val name="v
 # Project exclude paths
 /.gradle/
+/.idea
