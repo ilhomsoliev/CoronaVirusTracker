@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item name="androidx.viewpager2.widget.CompositeOnPageChangeCallback void onPageScrollStateChanged(int) 0">
+    <annotation name="androidx.annotation.IntDef">
+      <val name="v
+# Project exclude paths
+/.gradle/
